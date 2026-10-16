@@ -1,0 +1,8 @@
+{
+  "name": "TOEFL Prep Indonesia",
+  "description": "Platform persiapan TOEFL lengkap berbahasa Indonesia dengan 500 kosakata akademik AWL, 200 soal grammar, 100 soal reading, 30 listening audio TTS, simulasi ujian dengan timer dan skor, serta pelacak progres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
